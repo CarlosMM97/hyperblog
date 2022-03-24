@@ -39,4 +39,10 @@ body
 {
 color: chartreuse;
 font-family: Arial;
+text-align: left;
+}
+#contenido p
+{
+font-size: 12;
+font-family: monospace;
 }
